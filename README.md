@@ -4,6 +4,17 @@
 
 I do fullstack development and mobile application development. I enjoy using frontend technologies and frameworks such as HTML, CSS, JavaScript, React and Angular JS. I'm also passionate about backend technologies such as the Django framework, and the entire lifecyle of software design and architecting. I'm constantly in search of opportunities to contribute to the success of any technology-driven organization, whilst learning new technologies and business skills.
 
+### Skills and Experience
+<div align="left">
+  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"/>
+  <p>Python</p>
+</div>
+
+
+
+
+
+
 Skills: HTML /CSS / JAVASCRIPT / REACT / JAVA / PYTHON / DJANGO
 
 - 🔭 I’m currently working on this page. 
