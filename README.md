@@ -9,17 +9,3 @@ I do fullstack development and mobile application development. I enjoy using fro
   <img height="350" src="https://firebasestorage.googleapis.com/v0/b/poster-f8926.appspot.com/o/SpringSkills.png?alt=media&token=9345b531-b31e-41c4-8a77-511457b7a20a"/>
   <p>Python</p>
 </div>
-
-
-
-
-
-
-Skills: HTML /CSS / JAVASCRIPT / REACT / JAVA / PYTHON / DJANGO
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
