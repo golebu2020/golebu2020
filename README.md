@@ -9,8 +9,8 @@
    I do fullstack development and mobile application development. I enjoy using frontend technologies and frameworks such as HTML, CSS, JavaScript, React and Angular JS.    I'm also passionate about backend technologies such as the Django framework, and the entire lifecyle of software design and architecting. I'm constantly in search of    opportunities to contribute to the success of any technology-driven organization, whilst learning new technologies and business skills.
 </p>
 
-<img align="left" width="48%" height="48%" src="https://github-readme-stats.vercel.app/api?username=golebu2020"/>
-<img align="right" width="48%" height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=golebu2020"/>
+<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact"/>
 
 
 
