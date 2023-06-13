@@ -1,8 +1,8 @@
 ## Hi there 👋, my name is Chinedu
 ### I am a Software Engineer
-<div>
+<!-- <div>
   <img width="1500"src="https://firebasestorage.googleapis.com/v0/b/poster-f8926.appspot.com/o/githubbanner.png?alt=media&token=61ab93a9-57cf-4efc-9ce6-f3fb4b4b3e66"></img>
-</div>
+</div> -->
 
 
 <p>
